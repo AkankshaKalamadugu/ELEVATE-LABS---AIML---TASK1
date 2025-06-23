@@ -39,3 +39,7 @@
 ---
 
 ## 📦 Files Included
+├── Titanic_Preprocessing.ipynb # Google Colab Notebook
+├── titanic.csv # Raw dataset (uploaded in Colab)
+├── titanic_cleaned.csv # Final cleaned dataset
+└── README.md # Project overview and documentation
